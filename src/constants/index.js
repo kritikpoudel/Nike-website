@@ -118,7 +118,7 @@ export const footerLinks = [
 ];
 
 export const socialMedia = [
-    { src: facebook, alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
-    { src: instagram, alt: "instagram logo" },
+    { src: facebook, alt: "facebook logo" , link: "https://www.facebook.com/kritikpoudel0/"},
+    { src: twitter, alt: "twitter logo" , link:"/"},
+    { src: instagram, alt: "instagram logo" , link: "https://www.instagram.com/kritikpoudel/" },
 ];
